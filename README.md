@@ -20,7 +20,7 @@
 
 ## CIRCUIT DIAGRAM
 
-<img width="973" height="448" alt="image" src="https://github.com/user-attachments/assets/6bf521f0-cc4f-4bad-b877-d636616c84a4" />
+![WhatsApp Image 2025-12-05 at 22 23 16](https://github.com/user-attachments/assets/a14356af-8ad9-40b4-9c5f-0ceefd193538)
 
 ---
 ## MODEL GRAPH
@@ -29,6 +29,7 @@
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-05 at 22 28 22](https://github.com/user-attachments/assets/0c7fc9ab-d950-4095-b8fe-4cd24e4fca34)
 
 
 ---
