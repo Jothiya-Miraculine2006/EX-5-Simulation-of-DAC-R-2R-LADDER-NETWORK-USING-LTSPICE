@@ -20,15 +20,15 @@
 
 ## CIRCUIT DIAGRAM
 
-<img width="973" height="448" alt="image" src="https://github.com/user-attachments/assets/6bf521f0-cc4f-4bad-b877-d636616c84a4" />
+![WhatsApp Image 2025-12-05 at 22 23 16](https://github.com/user-attachments/assets/2ac68a99-5f7b-46cb-b7a2-f419cc6aaec1)
 
 ---
 ## MODEL GRAPH
-<img width="488" height="427" alt="image" src="https://github.com/user-attachments/assets/9c8388ab-fc82-4d9a-86ea-1327b148596b" />
-<img width="1006" height="353" alt="image" src="https://github.com/user-attachments/assets/c920c726-d72d-4106-9048-0cd86b895f3d" />
+![Uploading WhatsApp Image 2025-12-06 at 11.11.18.jpeg…]()
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-05 at 22 28 22](https://github.com/user-attachments/assets/0bb0fbdd-1ec2-454c-b4c5-32e01b8b93fe)
 
 
 ---
